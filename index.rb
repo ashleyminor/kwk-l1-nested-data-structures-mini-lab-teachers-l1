@@ -15,7 +15,6 @@ def sandwich_request(ingredients, order)
   true
 end
 
-# example city_info hash
 cities = {
   :new_york => {
     :mayor => "Bill DeBlasio",
